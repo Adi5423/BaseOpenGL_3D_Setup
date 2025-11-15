@@ -101,6 +101,6 @@ Ready for you to add:
 
 ## 📄 License
 
-MIT License. See [`LICENSE.txt`](LICENSE.txt)
+See [`MIT License`](LICENSE.txt).
 
 Feel free to use this as your base for any OpenGL or engine-related project!
