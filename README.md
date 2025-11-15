@@ -106,6 +106,9 @@ Ready for you to add:
 **Aditya Tiwari**
 - 💼 LinkedIn: [Aditya Tiwari](https://www.linkedin.com/in/adii5423/)
 - 🐱 GitHub: [GitHub Profile](https://github.com/adi5423)
+- 📧 Email: adii54ti23@gmail.com
+- 🐦 Twitter: [@Adii5423](https://twitter.com/Adii5423)
+- 📧 Instagram: [@Adii5423.exe](https://instagram.com/Adii5423)
 
 ---
 
