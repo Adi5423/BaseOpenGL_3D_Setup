@@ -96,8 +96,12 @@ Ready for you to add:
 
 * All dependencies are included in `vendor/` — no external installs required.
 * Paths are short and clean to avoid Windows object path issues.
-
+  
 ---
+
+### Contributing
+If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Any contributions, suggestions, or improvements are welcome!
+
 
 ## 📄 License
 
